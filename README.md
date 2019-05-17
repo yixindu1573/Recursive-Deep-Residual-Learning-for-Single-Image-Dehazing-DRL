@@ -6,7 +6,7 @@ It has been tested on Matlab with MatConvNet and Vlfeat.
 
 To run the code,
 
-Step 1:  Under the folder "libs/",  please download and compile MatConvNet and Vlfeat.
+Step 1:  under the folder "libs/",  please download and compile MatConvNet and Vlfeat.
 
 Step 2:  run "test.m".
 
